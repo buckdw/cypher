@@ -1,0 +1,17 @@
+namespace: blue_fez
+name: cypher
+version: 1.0.0
+readme: README.md
+authors:
+- Diederick de Buck <diederick.de.buck@blue-fez.com>
+
+description: Fernet cypher module
+license:
+- GPL-2.0-or-later
+license_file: ''
+tags: []
+dependencies: {}
+repository: https://github.com/buckdw/cypher.git
+documentation: http://docs.example.com
+homepage: http://example.com
+issues: http://example.com/issue/tracker
